@@ -3,11 +3,11 @@
 
 ## Problem statement
 
-In this data science project, you will build a machine learning system which will be able predict the personality of the customer using machine learning algorithms. This project will be very usefull for malls, various stores and companies which are product based. Based on customer's personal details and purchase details, we can cluster them and we can predict the customer's cluster number using classification techniques.
+In this data science project, we will build a machine learning system which will be able predict the personality of the customer using machine learning algorithms. This project will be very usefull for malls, various stores and companies which are product based. Based on customer's personal details and purchase details, we can cluster them and we can predict the customer's cluster number using classification techniques.
 
 ## Solution Proposed
 
-Now the question is how to dynamically predict the cluster of the customer ?. One of the approaches which we can use of machine learning approach, where we can cluster the customer based on the details we have and predict the cluster type based on the domain knowledge and leverage previous customer data to predict the cluster.
+To dynamically predict the cluster of the customer, One of the approaches which we can use of machine learning approach, where we can cluster the customer based on the details we have and predict the cluster type based on the domain knowledge and leverage previous customer data to predict the cluster.
 
 Dataset used
  <html>
@@ -32,13 +32,13 @@ Dataset used
 
 ## How to run
 
-Before you run this project make sure you have MongoDB Atlas account and you have the shipping dataset into it.
+Before we run this project, we need to make sure we have MongoDB Atlas account and we have the shipping dataset into it.
 
 Step 1. Cloning the repository.
 
 ```
 
-git clone https://github.com/Machine-Learning-01/Customer_segmentation.git
+git clone https://github.com/soMukh/Customer-Categorizer.git
 
 ```
 
@@ -46,7 +46,7 @@ Step 2. Create a conda environment.
 
 ```
 
-conda create --prefix venv python=3.7 -y
+conda create --prefix venv python=3.10 -y
 
 ```
 
