@@ -1,4 +1,4 @@
-MONGODB_URL_KEY = "mongodb+srv://mukherjeesoham14:042qUkHb9nJg1vAo@cluster0.hv6mej7.mongodb.net/"
+MONGODB_URL_KEY = "MONGODB_URL"
 AWS_ACCESS_KEY_ID_ENV_KEY = "AWS_ACCESS_KEY_ID"
 AWS_SECRET_ACCESS_KEY_ENV_KEY = "AWS_SECRET_ACCESS_KEY"
-REGION_NAME = "ap-south-1"
+REGION_NAME = "eu-north-1"

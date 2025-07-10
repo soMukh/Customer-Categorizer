@@ -52,7 +52,8 @@ class CustomerClusterEstimator:
                                 remove=remove
                                 )
         except Exception as e:
-            raise (e, sys)
+            raise CustomerException(e, sys) from e
+
 
 
     def predict(self,dataframe:DataFrame):
