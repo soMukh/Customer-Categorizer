@@ -32,7 +32,7 @@ Dataset used
 
 ## How to run
 
-Before we run this project, we need to make sure we have MongoDB Atlas account and we have the shipping dataset into it.
+Before we run this project, we need to make sure we have MongoDB Atlas account and we have the customer dataset into it.
 
 Step 1. Cloning the repository.
 
